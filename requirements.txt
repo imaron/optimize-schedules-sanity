@@ -1,8 +1,13 @@
+Flask
+gunicorn
 fastapi
 uvicorn
-pydantic
-numpy
 pandas
 ortools
-gunicorn
-Flask
+protobuf
+pydantic
+pydantic-core
+numpy
+openpyxl
+python-dateutil
+tzdata
