@@ -4,5 +4,4 @@ pydantic
 numpy
 pandas
 ortools
-
 gunicorn
